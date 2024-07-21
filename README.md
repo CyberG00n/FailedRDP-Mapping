@@ -1,13 +1,15 @@
+<center>
 <a><img src="https://i.ibb.co/9nMTHwx/banner-2.png" alt="Failed-RDP Mapping" border="0" align="center"></a>
 
-<center>
 <img src="https://img.shields.io/badge/Microsoft-Azure-white?style=plastic&color=blue">
+
+
+<h2>Mapping out all the failed RDP request, lol.</h2>
+
+<h3> About.</h3>
 </center>
-<h2 align="center">Mapping out all the failed RDP request, lol.</h2>
 
-<h3 align="center"> About.</h3>
-
-This project was not long to implament but it did provide me with valuable skills. Essentially, it is setting up a honey pot on the internet, and whenever someone tries to log in and fail, it logs that down. With the log information I am able to obtain their IP address and map out where they are. This was implamented in Microsoft Azure!
+This project did not take long to implement, but it gave me valuable skills. Essentially, it is setting up a honey pot on the internet, and whenever someone tries to log in and fails, it logs that down. I can obtain their IP address and map their location with the log information. This was implemented in Microsoft Azure!
 <a><img src="https://i.ibb.co/BwYYH2Q/Chart.png" alt="Chart" border="0"></a>
 
 <h3 align="center">Documentation</h3>
