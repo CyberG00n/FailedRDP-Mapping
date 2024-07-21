@@ -23,7 +23,8 @@ This is where the fun begins; it sends the information, including everything fro
 Mapping the information out wasn't hard; you create and add a new workbook, and then it can map it out for you! This part is also funny to me because I left the VM to run and I come back to find that 3 bots where trying to bruteforce thier way into my VM. They tried at least 2.5k of those attempts.s They eventually used up all my API calls for GEOIP and thats why it would give me that error.
 <a href="https://ibb.co/GWTVqNv"><img src="https://i.ibb.co/Htdrj3D/Map.jpg" alt="Map" border="0"></a>
 
-This project was a little programming, except for SQL and some Java, but it was reasonably straightforward. The tutorial I went through was outdated, so some things changed. If you would like to do this project, here is the link: If you have any questions, please don't hesitate to contact me. I struggled through the part where he pares the raw data, as Azure changed the Custom Log part.
+This project was a little programming, except for SQL and some Java, but it was reasonably straightforward. The tutorial I went through was outdated, so some things changed. If you would like to do this project, here is the link: https://www.youtube.com/watch?v=RoZeVbbZ0o0\&t=2759s
+ If you have any questions, please don't hesitate to contact me. I struggled through the part where he pares the raw data, as Azure changed the Custom Log part.
 
 <img src="https://media.giphy.com/media/oobNzX5ICcRZC/giphy.gif?cid=ecf05e47ggfln5y0qhz7h3do3ybue8n73amijws5ra2pob31\&ep=v1\_gifs\_search\&rid=giphy.gif\&ct=g
 " width="350" align="center">
